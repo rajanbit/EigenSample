@@ -2,7 +2,7 @@
 
 # EigenSample: Python package for generating synthetic samples in eigenspace to minimize distortion. 
 
-This repository contains a Python implementation of the EigenSample algorithm by [Jayadeva et al., 2017](https://doi.org/10.1016/j.asoc.2017.08.017), designed to generate synthetic samples in the eigenspace while minimizing distortion. Please note that this implementation is intended solely for learning purposes and does not claim any original work or contributions. Feel free to explore, learn from, and contribute to this repository!
+This repository contains a Python implementation of the EigenSample algorithm by [Jayadeva et al., 2018](https://doi.org/10.1016/j.asoc.2017.08.017), designed to generate synthetic samples in the eigenspace while minimizing distortion. Please note that this implementation is intended solely for learning purposes and does not claim any original work or contributions. Feel free to explore, learn from, and contribute to this repository!
 
 ### Requirements
 - Python >=3.10
