@@ -4,6 +4,23 @@
 
 This repository contains a Python implementation of the EigenSample algorithm by [Jayadeva et al., 2018](https://doi.org/10.1016/j.asoc.2017.08.017), designed to generate synthetic samples in the eigenspace while minimizing distortion. Please note that this implementation is intended solely for learning purposes and does not claim any original work or contributions. Feel free to explore, learn from, and contribute to this repository!
 
+### Repos documentation
+```
+EigenSample/
+├── doc
+│   ├── EigenSample_tutorial.ipynb
+│   └── EigenSample_user_guide.pdf
+├── LICENSE.txt
+├── pyproject.toml
+├── README.md
+├── setup.cfg
+├── src
+│   └── sampler
+│       ├── eigenSample.py
+│       └── __init__.py
+└── test
+    └── test_eigenSample.py
+```
 ### Requirements
 - Python >=3.10
 - Git
